@@ -3,7 +3,9 @@
 import tkinter
 from tkinter import *
 from tkinter import ttk
+import os
 from PIL import Image, ImageTk
+caminho_base = os.path.dirname(__file__)
 import random
 
 # Cores que vão ser usadas no jogo:
@@ -79,19 +81,19 @@ def iniciar_jogo():
 
     b_play.destroy()
 
-    img_1 = Image.open('Pedra-Papel-Tesoura/Imagens/Pedra.png')
+    img_1 = Image.open(os.path.join(caminho_base, 'Pedra.png'))
     img_1 = img_1.resize((50,50))
     img_1 = ImageTk.PhotoImage(img_1)
     b_img_1 = Button(frame_baixo, command=lambda: jogar('Pedra'), width=50, image=img_1, compound=CENTER, bg=co0, fg=co0, font=('Ivy 10 bold'), anchor=CENTER, relief=FLAT)
     b_img_1.place(x=15, y=60) 
     
-    img_2 = Image.open('Pedra-Papel-Tesoura/Imagens/Papel.png')
+    img_2 = Image.open(os.path.join(caminho_base, 'Papel.png'))
     img_2 = img_2.resize((50,50))
     img_2 = ImageTk.PhotoImage(img_2)
     b_img_2 = Button(frame_baixo, command=lambda: jogar('Papel'), width=50, image=img_2, compound=CENTER, bg=co0, fg=co0, font=('Ivy 10 bold'), anchor=CENTER, relief=FLAT)
     b_img_2.place(x=100, y=60) 
     
-    img_3 = Image.open('Pedra-Papel-Tesoura/Imagens/Tesoura.png')
+    img_3 = Image.open(os.path.join(caminho_base, 'Tesoura.png'))
     img_3 = img_3.resize((50,50))
     img_3 = ImageTk.PhotoImage(img_3)
     b_img_3 = Button(frame_baixo, command=lambda: jogar('Tesoura'), width=50, image=img_3, compound=CENTER, bg=co0, fg=co0, font=('Ivy 10 bold'), anchor=CENTER, relief=FLAT)
