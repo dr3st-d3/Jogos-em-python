@@ -2,6 +2,6 @@
 
 *Alguns jogos que eu fiz em Python para praticar.*
 
--[x] **Pedra, Papel e Tesoura**;
+- [x] **Pedra, Papel e Tesoura**;
 
--[ ] **Quem é esse Pokémon**;
+- [ ] **Quem é esse Pokémon**;
