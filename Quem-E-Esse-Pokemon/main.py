@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 caminho_base = os.path.dirname(__file__)
 import random
 
-# Cores que vão ser usadas no jogo:
+# Cores que vão ser usadas no jgo:
 
 co0 = "#4B4B4B"
 co1 = "#333333"
