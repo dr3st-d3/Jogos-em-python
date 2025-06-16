@@ -46,4 +46,20 @@
   Em desenvolvimento...
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/></br>
+
+# Softwares em Python
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/></br>
+
+<p align="center">
+  <strong><i>Alguns softwares que eu fiz em Python para praticar:</i></strong>
+</p></br>
+
+- [ ] **Bot para o Twitter**:
+
+<p>
+  Em desenvolvimento...
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
