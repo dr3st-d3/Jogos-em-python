@@ -27,7 +27,7 @@
 </div></br>
 
 <p>
-  O jogo é disputado em 5 rodadas. Ao final, vence quem tiver acumulado mais pontos, uma vitória vale 10 pontos e um empate vale 5 pontos. Fora isso, as regras seguem o padrão tradicional do jogo que todos já conhecem.
+  O jogo é disputado em 5 rodadas. Ao final, vence quem tiver acumulado mais pontos, uma vitória vale 10 pontos e um empate vale 5. Fora isso, as regras seguem o padrão tradicional do jogo que todos já conhecem.
 </p>
 
 <p>
