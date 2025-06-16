@@ -43,7 +43,7 @@
 - [ ] **Quem é esse Pokémon**;
 
 <p>
-  Ainda em desenvolvimento...
+  Em desenvolvimento...
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
