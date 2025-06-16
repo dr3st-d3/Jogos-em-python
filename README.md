@@ -40,11 +40,26 @@
   <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/Imagens-para-README/3_PPT.png" height="230" alt="PPT_3" >
 </div></br>
 
+## Ferramentas usadas
+<div style="display: inline_block">
+  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+</div>
+##
+
 - [ ] **Quem é esse Pokémon**;
 
 <p>
   Em desenvolvimento...
 </p>
+
+## Ferramentas usadas
+<div style="display: inline_block">
+  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="PHOTOPEA" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge">
+</div>
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/></br>
 
@@ -61,5 +76,12 @@
 <p>
   Em desenvolvimento...
 </p>
+
+## Ferramentas usadas
+<div style="display: inline_block">
+  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+</div>
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
