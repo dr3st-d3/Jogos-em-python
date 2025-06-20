@@ -1,0 +1,3 @@
+teste@teste.com.br;1234;Testador;2025-06-20
+ana@email.com;senha123;Ana Clara;2024-11-05
+lucas@dev.com;devpass;Lucas Silva;2023-09-15
