@@ -1,9 +1,9 @@
-# Jogos em Python
+# Projetos com Interface Gráfica em Python
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/></br>
 
 <p align="center">
-  <strong><i>Alguns jogos que eu fiz em Python para praticar:</i></strong>
+  <strong><i>Alguns projetos que eu fiz em Python para praticar:</i></strong>
 </p></br>
 
 ##
@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/Imagens-para-README/1_PPT.PNG" height="230" alt="PPT_1" >
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/1_PPT.PNG" height="230" alt="PPT_1" >
 </div></br>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/Imagens-para-README/2_PPT.PNG" height="230" alt="PPT_2" >
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/2_PPT.PNG" height="230" alt="PPT_2" >
 </div></br>
 
 <p>
@@ -39,7 +39,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/Imagens-para-README/3_PPT.png" height="230" alt="PPT_3" >
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/3_PPT.png" height="230" alt="PPT_3" >
 </div></br>
 
 ## Ferramentas usadas
@@ -64,34 +64,3 @@
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
   <img align="center" alt="PHOTOPEA" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge">
 </div>
-
-##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/></br>
-
-# Softwares em Python
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/></br>
-
-<p align="center">
-  <strong><i>Alguns softwares que eu fiz em Python para praticar:</i></strong>
-</p></br>
-
-##
-
-- [ ] **Bot para o Twitter**:
-
-<p>
-  Em desenvolvimento...
-</p>
-
-## Ferramentas usadas
-
-<div style="display: inline_block"></br>
-  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
-</div>
-
-##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
