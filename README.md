@@ -10,7 +10,7 @@
 - [x] **Calculadora de Operações Simples**:
 
 <p>
-  Essa é uma calculadora de operações simples, feita com a biblioteca "kivy" (biblioteca de interface gráfica), ela soma, subtrai, divide e multiplica. O projeto foi desenvolvido durante o curso "Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python", da Fundação Bradesco.
+  Essa é uma calculadora de operações simples, desenvolvida com a biblioteca Kivy, usada para criação de interfaces gráficas em Python. Ela soma, subtrai, divide e multiplica. O projeto foi desenvolvido durante o curso "Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python", da Fundação Bradesco.
 </p>
 
 <p>
