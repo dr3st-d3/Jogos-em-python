@@ -7,6 +7,68 @@
 </p></br>
 
 ##
+- [x] **Calculadora de Operações Simples**:
+
+<p>
+  Essa é uma calculadora de operações simples, feita com a biblioteca "kivy" (biblioteca de interface gráfica), ela soma, subtrai, divide e multiplica. O projeto foi desenvolvido durante o curso "Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python", da Fundação Bradesco.
+</p>
+
+<p>
+  Essa é a interface dela:
+</p>
+
+<div align="center">
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/Calculadora.png" height="230" alt="CALCULADORA" >
+</div>
+
+
+## Ferramentas usadas
+
+<div style="display: inline_block"></br>
+  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
+</div>
+
+##
+
+- [x] **Tela de Login (Funcional)**:
+
+<p>
+  Essa é uma tela de login simples, desenvolvida com a biblioteca Kivy, usada para criação de interfaces gráficas em Python. Com ela, é possível fazer login caso você já tenha uma conta criada e salva no arquivo "users.txt". O projeto foi desenvolvido durante o curso "Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python", da Fundação Bradesco.
+</p>
+
+<p>
+  Abaixo, a interface da tela de login ao ser iniciada:
+</p>
+
+<div align="center">
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/1_Login.png" height="230" alt="LOGIN1" >
+</div>
+
+<p>
+  Caso ainda não tenha uma conta, é possível criar uma facilmente. Basta clicar em "Não tem uma conta? Bora criar!", e você será redirecionado para a tela de cadastro:
+</p>
+
+<div align="center">
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/2_Login.png" height="230" alt="LOGIN2" >
+</div>
+
+<p>
+  Depois de criar sua conta e fazer login, você será direcionado para uma tela com os detalhes da conta, onde poderá visualizar informações como seu nome, a data de criação da conta, entre outros dados.
+</p>
+
+<div align="center">
+  <img src="https://github.com/dr3st-d3/Jogos-em-python/blob/main/1-Imagens-para-README/3_Login.png" height="230" alt="LOGIN3" >
+</div>
+
+## Ferramentas usadas
+
+<div style="display: inline_block"></br>
+  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
+</div>
+
+##
 
 - [x] **Pedra, Papel e Tesoura**:
 
@@ -45,8 +107,8 @@
 ## Ferramentas usadas
 
 <div style="display: inline_block"></br>
-  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
 </div>
 
 ##
@@ -60,7 +122,7 @@
 ## Ferramentas usadas
 
 <div style="display: inline_block"></br>
-  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="PHOTOPEA" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="PHOTOSHOP" src="https://skillicons.dev/icons?i=ps">
 </div>
