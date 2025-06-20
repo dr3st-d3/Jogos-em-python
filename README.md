@@ -126,3 +126,7 @@
   <img align="center" alt="PYTHON" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="PHOTOSHOP" src="https://skillicons.dev/icons?i=ps">
 </div>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
