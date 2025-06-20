@@ -54,7 +54,7 @@
 </div>
 
 <p>
-  Depois de criar sua conta e fazer login, você será direcionado para uma tela com os detalhes da conta, onde poderá visualizar informações como seu nome, a data de criação da conta, entre outros dados.
+  Depois de criar sua conta e fazer login, você será direcionado para uma tela com os detalhes da conta, onde poderá visualizar informações como seu nome, a data de criação da conta etc:
 </p>
 
 <div align="center">
